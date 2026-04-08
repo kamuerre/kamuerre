@@ -69,7 +69,6 @@ Desarrollo de interfaces para registro, asignación y visualización de datos co
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamuerre&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kamuerre&theme=tokyonight)
 
