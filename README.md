@@ -16,6 +16,6 @@ Desarrolladora web y diseñadora UX/UI.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamuerre&show_icons=true&theme=tokyonight)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kamuerre&theme=tokyonight)
