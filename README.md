@@ -15,6 +15,7 @@ Me especializo en construir interfaces claras, funcionales y centradas en la exp
 ---
 
 ## 🌐 Contacto
+Vivo en la Ciudad Autónoma de Buenos Aires 
 
 📧 Email: crasnosky@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/camila-rasnosky/  
